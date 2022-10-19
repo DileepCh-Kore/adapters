@@ -1,0 +1,12 @@
+{
+    "port" : 4000,
+    "table_name_users" : "rfq_dummy_users",
+    "table_name_rfq" : "rfq_dummy_table",
+    "url_endpoint" : "https://bots.kore.ai/api/1.1/public/tables",
+    "rfq_endpoint" : "rfq",
+    "contracts_endpoint" : "contracts",
+    "table_name_contracts" : "dummy_contracts",
+    "jwt_token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6ImNzLTA3OGJiYmUzLTM5ZjUtNTM2Yy05ZGJkLWZmYTcxMzc0YTIwYSJ9.IU5SglIYSbWMXiMQkH-CX3SY7SN6ga8mPXliwIKimkY",
+    "appId" : "cs-078bbbe3-39f5-536c-9dbd-ffa71374a20a",
+    "secretKey" : "348T9R35SBHFUCeVylzh6bBD3m16jrqEMHqIm3W6pZI="
+}
